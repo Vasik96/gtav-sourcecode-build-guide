@@ -5,6 +5,7 @@
 <h1 align="left"> 📜 GTA V Source Code Build Guide </h1>
 
 This tutorial will accompany you in compiling and setting up GTA 5 source code.
+!!! Some files may be taken down, I will not be updating those !!!
 
 # Contents
 1. [Prerequisites](#prerequisites)
@@ -62,13 +63,14 @@ This tutorial will accompany you in compiling and setting up GTA 5 source code.
     - For editing the game files.  
 
 ### Miscellaneous
- - [Rush Patches](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14641602/rush_patches-master.zip)
- - [DLL Patches](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/14965810/dll_patches_x.zip)
+ - [Rush Patches]((https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/rush_patches-master.zip))
+ - [DLL Patches]((https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/dll_patches_x.zip))
  - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
  - (OPTIONAL) [gIKgDXuVHNzIgXkiwpB.zip - Art Asset Leak](https://big.fileditchnew.ch/b9/gIKgDXuVHNzIgXkiwpB.zip)
     - [Mirror Link](https://www.bojarcz.uk/gIKgDXuVHNzIgXkiwpB.zip)
- - [Network Fix](https://github.com/P0L3NARUBA/gtav-sourcecode-build-guide/files/15209424/Network.Fix.zip)
+ - [Network Fix]((https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/Network.Fix.zip))
     - This will fix the Studio or IP related issues.
+ - [Mixed Patches](https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/Mixed_Patches.zip) 
 
 ### Prebuilt Files
  - [Shaders](https://github.com/WH0LEWHALE/gtav-sourcecode-build-guide/files/14649717/common.zip)
