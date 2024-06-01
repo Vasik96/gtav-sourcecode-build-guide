@@ -63,12 +63,12 @@ This tutorial will accompany you in compiling and setting up GTA 5 source code.
     - For editing the game files.  
 
 ### Miscellaneous
- - [Rush Patches]((https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/rush_patches-master.zip))
- - [DLL Patches]((https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/dll_patches_x.zip))
+ - [Rush Patches](https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/rush_patches-master.zip)
+ - [DLL Patches](https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/dll_patches_x.zip)
  - (OPTIONAL) [3rdParty Folder](https://mega.nz/file/SqojFJZL#eYINo1pnspuTvdbocz4cA7NYZA8BN2H2nm7YEXuzlFw)
  - (OPTIONAL) [gIKgDXuVHNzIgXkiwpB.zip - Art Asset Leak](https://big.fileditchnew.ch/b9/gIKgDXuVHNzIgXkiwpB.zip)
     - [Mirror Link](https://www.bojarcz.uk/gIKgDXuVHNzIgXkiwpB.zip)
- - [Network Fix]((https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/Network.Fix.zip))
+ - [Network Fix](https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/Network.Fix.zip)
     - This will fix the Studio or IP related issues.
  - [Mixed Patches](https://github.com/Vasik96/gtav-sourcecode-build-guide/raw/main/Mixed_Patches.zip) 
 
