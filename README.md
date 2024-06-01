@@ -8,6 +8,8 @@ This tutorial will accompany you in compiling and setting up GTA 5 source code.
 <h1 align="left"> !!! Some files may be taken down, I will not be updating those !!! </h1>
 <h1 align="left"> I did not make this guide. </h1>
 
+With that said, here is the guide:
+
 # Contents
 1. [Prerequisites](#prerequisites)
    1. [Base](#base)
